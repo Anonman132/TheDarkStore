@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+
+.Header1 {
+	color: red;
+	font-size: 40px;
+	margin: 15px;
+	text-align: center;
+}
+
+.Header6 {
+	color: green;
+	margin: 10px;
+	text-align: center;
+}
+
+.Product1 {
+	color: yellow;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
